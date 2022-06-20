@@ -1,12 +1,19 @@
 body {
 
-	background: #CCCCCC
+	background: #CCCCCC;
+}
+#banner {
+	width: 100%;
 }
 
 p {
     text-align: center;
+    font-size: 20px;
 }
-
-strong {
-	color: red;
+em {
+	color: orange;
+} 
+h1 {
+	text-align:  center;
+	color: blue;
 }
